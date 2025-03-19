@@ -1,0 +1,24 @@
+name: Auto-Update Data
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs daily at midnight (UTC)
+  workflow_dispatch:  # Allows manual trigger
+
+jobs:
+  update_data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Update data file
+        run: echo "Last update: $(date)" > last_update.txt
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.email "your-email@example.com"
+          git config --global user.name "your-username"
+          git add last_update.txt
+          git commit -m "Automated update"
+          git push
