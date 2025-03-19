@@ -8,11 +8,11 @@ Welcome to the **Moving Company Search** repository! This project is dedicated t
 
 ### 🌟 Features of MovingCompanySearch.com  
 
-✅ **Find Trusted Movers** – Browse through a directory of verified moving companies.  
-✅ **Compare Prices** – Request free quotes and compare rates.  
-✅ **User Reviews** – Read customer reviews before choosing a mover.  
-✅ **Local & Long-Distance** – Whether you're moving within your city or across the country, find the right movers.  
-✅ **Specialized Services** – Office moves, furniture delivery, piano moving, and more.  
+**Find Trusted Movers** – Browse through a directory of verified moving companies.  
+**Compare Prices** – Request free quotes and compare rates.  
+**User Reviews** – Read customer reviews before choosing a mover.  
+**Local & Long-Distance** – Whether you're moving within your city or across the country, find the right movers.  
+**Specialized Services** – Office moves, furniture delivery, piano moving, and more.  
 
 ## 🔗 How to Get Started  
 
