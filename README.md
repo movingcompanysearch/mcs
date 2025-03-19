@@ -4,7 +4,7 @@ Welcome to the **Moving Company Search** repository! This project is dedicated t
 
 ## 🚛 About MovingCompanySearch.com  
 
-[MovingCompanySearch.com](https://www.movingcompanysearch.com) is a powerful platform that connects users with professional moving services. Whether you are relocating to a new home, moving offices, or need specialized transport services, this website simplifies the process.  
+[Moving Company Search](https://www.movingcompanysearch.com) is a powerful platform that connects users with professional moving services. Whether you are relocating to a new home, moving offices, or need specialized transport services, this website simplifies the process.  
 
 ### 🌟 Features of MovingCompanySearch.com  
 
@@ -16,7 +16,7 @@ Welcome to the **Moving Company Search** repository! This project is dedicated t
 
 ## 🔗 How to Get Started  
 
-Visit **[MovingCompanySearch.com](https://www.movingcompanysearch.com)** and enter your location to find the best moving companies near you.  
+Visit **[Moving Company Search](https://www.movingcompanysearch.com)** and enter your location to find the best moving companies near you.  
 
 ## 📢 Contributing  
 
